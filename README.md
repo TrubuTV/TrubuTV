@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrubuTV
+- 👋 Hi, I’m @Trubu
 - 👀 I'm interested in learning languages all kinds of them.
 - 🌱 I’m currently learning python and japanese.
 - 💞️ I’m looking to collaborate on projects that require logical thinking and commitment.
